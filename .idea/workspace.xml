@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1f561a4-6a26-46ee-8072-a8e9bf374c5d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/CartAddressDto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/CartCoordinateDto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/CartDto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/CreateCartDto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/DeliveryFeeDto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/DeliveryTier.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/DeliveryTiersDto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/HubDetailDto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/PriceDto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/ProductWrapper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/UpdateCartRequestDto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/environment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ProdDeTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ProdFRTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ProdNLTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/StagingTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/apicalls.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/BaseApi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/DataFactory.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/FlinkApi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NZEPjq4ecT1QlhHIZIrwk1JZkp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/emmanuel/Desktop/Backend-automation"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProdDeTest.InvalidenStrasse 27 Berlin, Germany, Delivery Fee 2,99 below 20 Euro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flink-be-api-test-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ProdDeTest" />
+      <option name="METHOD_NAME" value="InvalidenStrasse 27 Berlin, Germany, Delivery Fee 2,99 below 20 Euro" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProdDeTest.InvalidenStrasse 27 Berlin, Germany, Delivery Fee 2,99 below 20 Euro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1f561a4-6a26-46ee-8072-a8e9bf374c5d" name="Changes" comment="" />
+      <created>1679863181493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679863181493</updated>
+    </task>
+    <servers />
+  </component>
+</project>

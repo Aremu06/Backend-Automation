@@ -1,0 +1,10 @@
+<environment>
+    <parameter>
+        <key>API</key>
+        <value>Flink BE API Test Automation</value>
+    </parameter>
+    <parameter>
+        <key>Environment</key>
+        <value>Staging</value>
+    </parameter>
+</environment>
